@@ -1,0 +1,7 @@
+streamlit==0.89.0
+yfinance==0.1.63
+ta==0.7.0
+numpy==1.21.2
+plotly==5.3.1
+scikit-learn==0.24.2
+keras==2.6.0
